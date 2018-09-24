@@ -1,6 +1,6 @@
 # Kiki's short Lnk app
 
-This is a link shortener built on Meteor and React.
+This is a link shortener web app built on Meteor and React.
 
 ## Authors
 Nick Carmont

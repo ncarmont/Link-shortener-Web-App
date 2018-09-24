@@ -3,4 +3,4 @@
 This is a link shortener built on Meteor and React.
 
 ## Authors
-Kiki Carmont
+Nicks Carmont

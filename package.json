@@ -23,6 +23,9 @@
     "shortid": "^2.2.13",
     "simpl-schema": "^1.5.3"
   },
+  "engines": {
+    "node": "8.11.3",
+  },
   "meteor": {
     "mainModule": {
       "client": "client/main.js",

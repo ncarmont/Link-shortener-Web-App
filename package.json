@@ -24,13 +24,6 @@
     "simpl-schema": "^1.5.3"
   },
   "engines": {
-    "node": "8.11.3",
-  },
-  "meteor": {
-    "mainModule": {
-      "client": "client/main.js",
-      "server": "server/main.js"
-    },
-    "testModule": "tests/main.js"
+    "node": "8.11.3"
   }
 }

@@ -1,6 +1,6 @@
 # Link Shortener app
 
-This is a link shortener web app built on Meteor and React. NOTE: this works with a short domain name! (unlike the demo)
+This is a link shortener web app built on Meteor and React. NOTE: Get a short domain name!
 Link to Web version: https://short-lnk-ncarmont.herokuapp.com/
 
 
